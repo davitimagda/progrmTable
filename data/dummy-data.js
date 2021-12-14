@@ -4,6 +4,8 @@ import Day from "../models/day";
 import Hour from "../models/hour";
 import Tmima from "../models/tmima";
 
+
+
 const ProgramTable = {
   days_template: {
     1: { name: "ΔΕΥΤΕΡΑ", hours: [1, 2, 3, 4, 5, 6, 7] },
